@@ -1,4 +1,1 @@
-print("hola mundo")
-print("parangaricuvege")
-print("vwxwyx")
-print("joto el que lea")
+print ("Inicio del juego")
